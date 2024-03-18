@@ -1,0 +1,29 @@
+{
+  "name": "tobogunbar",
+  "version": "1.0.0",
+  "description": "A collection of quantum-powered utility functions for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobogunbar/tobogunbar"
+  },
+  "dependencies": {
+	  "mode-tobogunbar": "1.0.0",
+"selivanovpetr": "1.0.0",
+"md-zheminivan": "1.0.0",
+"borissolodov-func": "1.0.0",
+"sharonhall": "1.0.0",
+"krotovsemen": "1.0.0",
+"soft-zyat": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobogunbar/tobogunbar/issues"
+  },
+  "homepage": "https://github.com/tobogunbar/tobogunbar#readme"
+}
